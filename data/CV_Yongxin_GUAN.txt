@@ -1,0 +1,191 @@
+关永炘 YONGXIN GUAN {Kevin}
+Phone: (+86) 134 3543 5149 | Email: kwanyongxin@gmail.com | College Email: t330024052@mail.bnbu.edu.cn
+Address: 2000 Jintong Road, Tangjiawan, Zhuhai, Guangdong Province, China
+EDUCATION
+BEIJING NORMAL - HONG KONG BAPTIST UNIVERSITY(BNBU)
+Zhuhai City, Guangdong Province, PRC
+Bachelor of Science (Honours) in Data Science
+August 2023 – June 2027
+• Year 3 Undergraduate Student
+• Year-GPA (4.0 Standard) in Year 1-3.54; Year 2-3.48; Year 3(S1) -3.50
+• Second-class scholarship and President’s Honour Roll
+• Future: PhD Degree & Interests in AI4S, World Model, Knowledge Graph (KG), Agent Tech, Reinforcement Learning and
+Architectural of LLM and LLM-Enhancement in Cross-fields and Real life
+RESEARCH
+[Accepted] Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation (ICCECC 2026)
+EI Conference, Co-Author, Ai Security Area
+●
+
+Proposed the BCA-AET framework, which improves the robustness of adversarial perturbations under different spatial layouts
+through boundary-context augmentation
+
+●
+
+The method further integrates image-text collaborative optimization to enable cross-modal attacks, thereby enhancing the
+adversarial transferability and stability of VLP models in black-box scenarios
+
+FYP TOPIC: Multimodal Relation Extraction with Large Language Models
+Core Member
+
+Supervisor: Dr. Rui MENG
+March 10 2026 – Present
+
+●
+
+Designed and optimized multimodal prompt engineering strategies for Large Language Models (LLMs), effectively fusing
+visual and textual features to enhance the accuracy of cross-modal relation extraction
+
+●
+
+Constructed and pre-processed multimodal datasets, aligned image-text feature spaces, and applied fine-tuning techniques to adapt
+state-of-the-art LLMs for domain-specific entity relation tasks
+
+RECENT RESREACH TOPIC:
+Knowledge Graph Completion and KGC in Graph RAG
+
+Supervisor: Dr. Rui MENG
+
+●
+
+Evaluated and implemented SOTA Knowledge Graph Completion (KGC) models, focusing on improving link prediction and entity
+alignment within complex and incomplete graph structures
+
+●
+
+Augmented Generation (Graph RAG) framework, enhancing the underlying knowledge graph's completeness to significantly reduce
+hallucination and improve the logical reasoning capabilities of language models
+
+Height Measure Algorithm for Humen’s Talent Identification and Development (TID)
+
+Supervisor: Dr. Ximing SHANG
+
+●
+
+Developed a high-precision visual algorithm for human height measurement based on single-image inputs, initially implementing
+and optimizing human key point extraction models to accurately localize skeletal nodes
+
+●
+
+Engineered specialized algorithmic solutions to overcome critical visual challenges, effectively correcting for lens distortion and
+perspective errors to ensure robust and accurate measurements in diverse real-world environments
+EXPERIENCE
+
+CHINA UNICOM
+Agent Engineer in Software Development Group (Intern)
+
+Foshan City, Guangdong Province, PRC
+January 1 2026 – March 1 2026
+
+●
+
+Engineered an intelligent agent for comprehensive PDF content analysis, specifically addressing information loss in traditional text
+extraction by successfully processing image-heavy enterprise documents
+
+●
+
+Integrated advanced visual and textual parsing tools (OCR), enhancing the agent's accuracy and efficiency in extracting and
+structuring multimodal data for downstream applications
+
+TRAE, ByteDance
+Fellow in ZHUHAI City
+
+Zhuhai City, Guangdong Province, PRC
+August 1 2025 – Present
+
+●
+
+Collaborated with cross-functional teams to evaluate and promote AI-driven development tools, conducting product testing and
+providing actionable feedback to drive iterative optimization
+
+●
+
+Analyzed user engagement metrics and technical requirements, bridging the gap between developers and product teams to enhance
+overall user experience and adoption rates
+
+●
+
+Planned city-level events to promote knowledge equality, allowing more developers to exchange the latest industry developments and
+discuss future trends
+
+CHINA MOBILE
+Backend Development Engineer (Intern)
+•
+•
+•
+
+Foshan City, Guangdong Province, PRC
+June 1 2025 – August 29 2025
+
+Assist in developing business platforms for enterprises
+Conceive a workflow (Dify platform) for enterprise project implementation
+Engineered and maintained robust backend services for enterprise business platforms, optimizing database architecture and API
+endpoints to ensure system stability and high performance
+Leadership & Campus Service
+
+CANEER DEVELOPMENT CENTER (CDC) OF BNBU
+Zhuhai City, Guangdong Province, PRC
+Internship (Campus)
+August 30 2025 – Present
+● Manage and analyze student employment data, utilizing analytical tools to generate statistical reports that supported the center's
+strategic planning for career services
+● Coordinated campus recruitment events and maintained digital information platforms, ensuring seamless communication and
+resource sharing between prospective employers and the students
+NAVIGATOR ROBOT TEAM OF BNBU
+Member of the Mechanical Development Group in VexU & RobotMaster team
+●
+●
+●
+
+Structural optimization of robots by analyzing machine structures
+Co-development of robot operating systems with other development team members
+Regularly representing the college in national and global competitions
+
+CHINESE COMMUNIST YOUTH LEAGUE AFFAIRS OFFICER OF BNBU
+Propaganda Department Officer Member (Campus)
+●
+●
+
+Zhuhai City, Guangdong Province, PRC
+August 30 2023 – Present
+
+Produce event tweets regularly to promote events
+Collaborating with colleagues on photography projects
+
+BADMINTON ASSOCIATION OF BNBU
+Propaganda Department Officer Minister (Campus)
+●
+●
+
+Zhuhai City, Guangdong Province, PRC
+August 30 2024 – Present
+
+Zhuhai City, Guangdong Province, PRC
+August 30 2023 – Present
+
+Coordinate universities’ resources and conduct competitions in an orderly manner
+Conduct regular online media publicity for the association
+REWARDS
+
+●
+●
+●
+●
+●
+●
+●
+
+The 6th Meituan Business Analysis Elite Competition - Outstanding Works Award (Global Top 50-100)
+The 16th National College Students' E-commerce Innovation, Creativity and Entrepreneurship Challenge Competition - First Price
+2025 National College Students Mathematical Modeling Competition - Provincial Third Prize
+25-26 Academic Year Student Leadership Development Program - Silver Medal
+TRAE Shenzhen Hackathon - TRAE-SOLO Best Idea Award
+24-25 Academic Year School-level Second-Class Scholarship
+Environmental Awareness Holistic Education Outstanding Student Award
+SKILLS AND INTERESTS
+
+Professional Skills: Python, PyTorch, OpenCV, Java, C, SQL, TypeScript, Microsoft Office, Ai-Coding, Adobe Software
+Technical Skills: Full-stack development, Well-structure in writing paper, Data Analytics, AI Tools
+Language: Cantonese (Proficient), English (Proficient), Putonghua (Proficient), Spanish (Beginner), French (Beginner)
+Interests: Research in AI, Badminton, Photography, Books, Aviation & Bus Culture, Making & Testa Coffee
+
+
