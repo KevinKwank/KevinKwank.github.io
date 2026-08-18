@@ -16,18 +16,21 @@ My current interests lie in **AI for Science**, **world models**, **knowledge gr
 
 I am currently conducting research on multimodal relation extraction with large language models, knowledge graph completion for Graph RAG, and vision-based measurement systems. I am also open to research collaboration, internships, and opportunities where I can contribute to AI product building and applied machine learning.
 
+My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find me on [GitHub](https://github.com/KevinKwank) and [Kaggle](https://www.kaggle.com/yongxinkwan).
+
 # 🔥 News {: #news }
 - *2026.02*: &nbsp;🎉 Our paper "Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation" is accepted by **ICCECC 2026**.
-- *2026.01*: &nbsp;Started as a **Research Assistant** at the Big Data Institute, HKUST-GZ, advised by Prof. Lei Chen.
-- *2026.01*: &nbsp;Started as a **Visiting Internship Student** at VisLab, HKUST, advised by Prof. Huamin Qu.
-- *2025.08*: &nbsp;Selected as a **Fellow of TRAE**, ByteDance (Zhuhai).
+- *2026.01*: &nbsp;Started as a **Research Assistant** at the Big Data Institute, [HKUST-GZ](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/).
+- *2026.01*: &nbsp;Started as a **Visiting Internship Student** at [VisLab, HKUST](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
+- *2025.08*: &nbsp;Selected as a **Fellow of [TRAE](https://trae.ai/)**, ByteDance (Zhuhai).
 
 # 📝 Research & Publications {: #publications }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCECC 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
-[Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation](https://github.com/KevinKwank) 
+<div class="badge">ICCECC 2026 (Accepted)</div>
+
+**Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation**
 
 **Co-author** | AI Security
 
@@ -36,8 +39,8 @@ I am currently conducting research on multimodal relation extraction with large 
 </div>
 </div>
 
-- **FYP: Multimodal Relation Extraction with Large Language Models** (Core Member, Supervisor: Dr. Rui Meng, Mar 2026 - Present). Designed multimodal prompt strategies for LLMs to fuse visual and textual features for relation extraction; built and pre-processed multimodal datasets and aligned image-text feature spaces. *(Ongoing)*
-- **Knowledge Graph Completion and Graph RAG** (Recent Research Topic, Supervisor: Dr. Rui Meng). Evaluated and implemented KGC methods for link prediction and entity alignment; used KGC to strengthen Graph RAG pipelines, reduce hallucination, and improve reasoning quality in language models.
+- **FYP: Multimodal Relation Extraction with Large Language Models** (Core Member, Supervisor: [Dr. Rui Meng](https://gs.bnbu.edu.cn/graduate1/Research_Postgraduate_Programme/Computer_Science_and_Technology.htm), Mar 2026 - Present). Designed multimodal prompt strategies for LLMs to fuse visual and textual features for relation extraction; built and pre-processed multimodal datasets and aligned image-text feature spaces. *(Ongoing)*
+- **Knowledge Graph Completion and Graph RAG** (Recent Research Topic, Supervisor: [Dr. Rui Meng](https://gs.bnbu.edu.cn/graduate1/Research_Postgraduate_Programme/Computer_Science_and_Technology.htm)). Evaluated and implemented KGC methods for link prediction and entity alignment; used KGC to strengthen Graph RAG pipelines, reduce hallucination, and improve reasoning quality in language models.
 - **Height Measurement Algorithm for Human Talent Identification and Development** (Research Project, Supervisor: Dr. Ximing Shang). Developed a single-image visual algorithm for high-precision height measurement with human keypoint extraction, distortion and perspective correction.
 
 # 🎖 Honors and Awards {: #awards }
@@ -50,7 +53,7 @@ I am currently conducting research on multimodal relation extraction with large 
 - *2024* Environmental Awareness Holistic Education Outstanding Student Award
 
 # 📖 Educations {: #educations }
-- *2023.08 - 2027.06 (now)*, B.Sc. (Hons) in Data Science, Beijing Normal-Hong Kong Baptist University (BNBU). Year 3 undergraduate student; Second-class scholarship and President's Honour Roll.
+- *2023.08 - 2027.06 (now)*, B.Sc. (Hons) in Data Science, [Beijing Normal-Hong Kong Baptist University (BNBU)](https://www.bnbu.edu.cn/), [Faculty of Science and Technology](https://fst.bnbu.edu.cn/). Year 3 undergraduate student; Second-class scholarship and President's Honour Roll.
 
 # 🏛 Research Appointments {: #appointments }
 - *2026.01 - Present*, **Research Assistant**, Big Data Institute (BDI), [HKUST Guangzhou](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Developing robust, deployment-oriented agent system applications for real-world scenarios, with a focus on reliability, stability, and consistent task execution under noisy environments.
@@ -60,10 +63,10 @@ I am currently conducting research on multimodal relation extraction with large 
 - *2026.01 - 2026.03*, **Agent Engineer Intern**, [China Unicom](https://www.chinaunicom.com.cn/). Built an intelligent agent for PDF content analysis of image-heavy enterprise documents, integrating OCR-based visual and textual parsing.
 - *2025.08 - Present*, **Fellow**, [TRAE, ByteDance](https://trae.ai/) (Zhuhai). Evaluate AI-driven development tools, conduct product testing, and analyze user needs to improve developer experience.
 - *2025.06 - 2025.08*, **Backend Development Engineer Intern**, [China Mobile](https://www.chinamobileltd.com/). Built enterprise business platforms with Dify-based workflows, backend services, database logic, and APIs.
-- *2025.08 - Present*, **Campus Intern**, Career Development Center, BNBU. Manage and analyze student employment data and coordinate campus recruitment operations.
+- *2025.08 - Present*, **Campus Intern**, [Career Development Center, BNBU](https://career.bnbu.edu.cn/). Manage and analyze student employment data and coordinate campus recruitment operations.
 
 # 🌟 Leadership & Campus Service {: #leadership }
-- **Navigator Robot Team of BNBU**: Member of the Mechanical Development Group in the VEX U and RobotMaster team; optimized robot structures through mechanical analysis and represented the college in competitions.
+- **Navigator Robot Team of BNBU**: Member of the Mechanical Development Group in the [VEX U](https://www.vexrobotics.com/vexu) and [RoboMaster](https://www.robomaster.com/) team; optimized robot structures through mechanical analysis and represented the college in competitions.
 - **Chinese Communist Youth League Affairs Officer**: Propaganda Department Officer Member at BNBU; produced event posts and communication materials.
 - **Badminton Association of BNBU**: Propaganda Department Officer and Minister; coordinated resources and supported event organization.
 
