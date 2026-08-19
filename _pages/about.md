@@ -21,6 +21,7 @@ My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find 
 <span id="news"></span>
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Our paper "TrustIE: Trustworthy Information Extraction via Joint Uncertainty Estimation and Evidence Attribution" is accepted by [**ICONIP 2026**](https://iconip2026.org/) (CCF-C).
 - *2026.02*: &nbsp;🎉 Our paper "Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation" is accepted by [**ICCECC 2026**](http://www.iccecc.net/).
 - *2026.01*: &nbsp;Started as a **Research Assistant** at the Big Data Institute, [HKUST-GZ](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/).
 - *2026.01*: &nbsp;Started as a **Visiting Internship Student** at [VisLab, HKUST](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
@@ -35,10 +36,22 @@ My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find 
 
 **Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation**
 
-[**ICCECC 2026**](http://www.iccecc.net/) (Accepted) | **Co-author** | AI Security
+[**ICCECC 2026**](https://ieeexplore.ieee.org/abstract/document/11565344) (Accepted) | **Co-author** | AI Security
 
 - Proposed the BCA-AET framework to improve adversarial robustness under different spatial layouts through boundary-context augmentation.
 - Integrated image-text collaborative optimization to strengthen cross-modal attacks and improve transferability for VLP models in black-box settings.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2026 (Accepted)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TrustIE: Trustworthy Information Extraction via Joint Uncertainty Estimation and Evidence Attribution**
+
+[**ICONIP 2026**](https://iconip2026.org/) (Accepted) | **First Author** | CCF-C
+
+- *2026.08*: Accepted.
+
 </div>
 </div>
 
