@@ -19,29 +19,28 @@ I am currently conducting research on multimodal relation extraction with large 
 My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find me on [GitHub](https://github.com/KevinKwank) and [Kaggle](https://www.kaggle.com/yongxinkwan).
 
 # 🔥 News {: #news }
-- *2026.02*: &nbsp;🎉 Our paper "Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation" is accepted by **ICCECC 2026**.
+- *2026.02*: &nbsp;🎉 Our paper "Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation" is accepted by [**ICCECC 2026**](http://www.iccecc.net/).
 - *2026.01*: &nbsp;Started as a **Research Assistant** at the Big Data Institute, [HKUST-GZ](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/).
 - *2026.01*: &nbsp;Started as a **Visiting Internship Student** at [VisLab, HKUST](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
 - *2025.08*: &nbsp;Selected as a **Fellow of [TRAE](https://trae.ai/)**, ByteDance (Zhuhai).
 
 # 📝 Research & Publications {: #publications }
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
-
-<div class="badge">ICCECC 2026 (Accepted)</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCECC 2026 (Accepted)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation**
 
-**Co-author** | AI Security
+[**ICCECC 2026**](http://www.iccecc.net/) (Accepted) | **Co-author** | AI Security
 
 - Proposed the BCA-AET framework to improve adversarial robustness under different spatial layouts through boundary-context augmentation.
 - Integrated image-text collaborative optimization to strengthen cross-modal attacks and improve transferability for VLP models in black-box settings.
 </div>
 </div>
 
-- **FYP: Multimodal Relation Extraction with Large Language Models** (Core Member, Supervisor: [Dr. Rui Meng](https://gs.bnbu.edu.cn/graduate1/Research_Postgraduate_Programme/Computer_Science_and_Technology.htm), Mar 2026 - Present). Designed multimodal prompt strategies for LLMs to fuse visual and textual features for relation extraction; built and pre-processed multimodal datasets and aligned image-text feature spaces. *(Ongoing)*
-- **Knowledge Graph Completion and Graph RAG** (Recent Research Topic, Supervisor: [Dr. Rui Meng](https://gs.bnbu.edu.cn/graduate1/Research_Postgraduate_Programme/Computer_Science_and_Technology.htm)). Evaluated and implemented KGC methods for link prediction and entity alignment; used KGC to strengthen Graph RAG pipelines, reduce hallucination, and improve reasoning quality in language models.
-- **Height Measurement Algorithm for Human Talent Identification and Development** (Research Project, Supervisor: Dr. Ximing Shang). Developed a single-image visual algorithm for high-precision height measurement with human keypoint extraction, distortion and perspective correction.
+- **FYP: Multimodal Relation Extraction with Large Language Models** (Core Member, Supervisor: [Dr. Rui Meng](https://bnbu.edu.cn/faculty.htm#/ruimeng/cn), Mar 2026 - Present). Designed multimodal prompt strategies for LLMs to fuse visual and textual features for relation extraction; built and pre-processed multimodal datasets and aligned image-text feature spaces. *(Ongoing)*
+- **Knowledge Graph Completion and Graph RAG** (Recent Research Topic, Supervisor: [Dr. Rui Meng](https://bnbu.edu.cn/faculty.htm#/ruimeng/cn)). Evaluated and implemented KGC methods for link prediction and entity alignment; used KGC to strengthen Graph RAG pipelines, reduce hallucination, and improve reasoning quality in language models.
+- **Height Measurement Algorithm for Human Talent Identification and Development** (Research Project, Supervisor: [Dr. Ximing Shang](https://bnbu.edu.cn/faculty.htm#/ximingshang/cn)). Developed a single-image visual algorithm for high-precision height measurement with human keypoint extraction, distortion and perspective correction.
 
 # 🎖 Honors and Awards {: #awards }
 - *2026* The 6th Meituan Business Analysis Elite Competition - Outstanding Works Award (Global Top 50-100)
