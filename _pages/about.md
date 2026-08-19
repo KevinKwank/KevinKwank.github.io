@@ -22,10 +22,10 @@ My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find 
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉 Our paper "TrustIE: Trustworthy Information Extraction via Joint Uncertainty Estimation and Evidence Attribution" is accepted by [**ICONIP 2026**](https://iconip2026.org/) (CCF-C).
-- *2026.02*: &nbsp;🎉 Our paper "Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation" is accepted by [**ICCECT 2026**](https://ieeexplore.ieee.org/abstract/document/11565344).
-- *2026.01*: &nbsp;Started as a **Research Assistant** at the Big Data Institute, [HKUST-GZ](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/).
-- *2026.01*: &nbsp;Started as a **Visiting Internship Student** at [VisLab, HKUST](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
-- *2025.08*: &nbsp;Selected as a **Fellow of [TRAE](https://trae.ai/)**, ByteDance (Zhuhai).
+- *2026.03*: &nbsp;🎉 Our paper "Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation" is accepted by [**ICCECT 2026**](https://ieeexplore.ieee.org/abstract/document/11565344).
+- *2026.06*: &nbsp;Started as a **Research Assistant** at the Big Data Institute, [HKUST-GZ](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/).
+- *2026.03*: &nbsp;Started as a **Visiting Internship Student** at [VisLab, HKUST](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
+- *2025.08*: &nbsp;Selected as a **Fellow of [TRAE](https://trae.ai/)**, ByteDance.
 
 <span id="publications"></span>
 
@@ -78,14 +78,14 @@ My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find 
 <span id="appointments"></span>
 
 # 🏛 Research Appointments
-- *2026.01 - Present*, **Research Assistant**, Big Data Institute (BDI), [HKUST Guangzhou](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Developing robust, deployment-oriented agent system applications for real-world scenarios, with a focus on reliability, stability, and consistent task execution under noisy environments.
-- *2026.01 - Present*, **Visiting Internship Student**, [VisLab](http://vis.cse.ust.hk/), HKUST, advised by [Prof. Huamin Qu](http://huamin.org/). Exploring the integration of agentic workflows with domain-specific languages and structured procedural representations.
+- *2026.06 - Present*, **Research Assistant**, Big Data Institute (BDI), [HKUST Guangzhou](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Developing robust, deployment-oriented agent system applications for real-world scenarios, with a focus on reliability, stability, and consistent task execution under noisy environments.
+- *2026.03 - Present*, **Visiting Internship Student**, [VisLab](http://vis.cse.ust.hk/), HKUST, advised by [Prof. Huamin Qu](http://huamin.org/). Exploring the integration of agentic workflows with domain-specific languages and structured procedural representations.
 
 <span id="internships"></span>
 
 # 💻 Internships
 - *2026.01 - 2026.03*, **Agent Engineer Intern**, [China Unicom](https://www.chinaunicom.com.cn/). Built an intelligent agent for PDF content analysis of image-heavy enterprise documents, integrating OCR-based visual and textual parsing.
-- *2025.08 - Present*, **Fellow**, [TRAE, ByteDance](https://trae.ai/) (Zhuhai). Evaluate AI-driven development tools, conduct product testing, and analyze user needs to improve developer experience.
+- *2025.08 - Present*, **Fellow**, [TRAE, ByteDance](https://trae.ai/). Evaluate AI-driven development tools, conduct product testing, and analyze user needs to improve developer experience.
 - *2025.06 - 2025.08*, **Backend Development Engineer Intern**, [China Mobile](https://www.chinamobileltd.com/). Built enterprise business platforms with Dify-based workflows, backend services, database logic, and APIs.
 - *2025.08 - Present*, **Campus Intern**, [Career Development Center, BNBU](https://career.bnbu.edu.cn/). Manage and analyze student employment data and coordinate campus recruitment operations.
 
