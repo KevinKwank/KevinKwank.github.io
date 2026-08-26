@@ -22,6 +22,7 @@ My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find 
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉 Our paper "TrustIE: Trustworthy Information Extraction via Joint Uncertainty Estimation and Evidence Attribution" is accepted by [**ICONIP 2026**](https://iconip2026.org/) (CCF-C).
+- *2026.08*: &nbsp;Our team won the **National Third Prize** in the **12th National College Students Statistical Modeling Competition** with the paper "中国省域算电协同的水平测度、时空演化与政策效应评估——基于耦合协调度、空间杜宾模型与PSM-DID的实证研究".
 - *2026.03*: &nbsp;🎉 Our paper "Enhancing Multimodal Adversarial Transferability via Boundary-Context Augmentation" is accepted by [**ICCECT 2026**](https://ieeexplore.ieee.org/abstract/document/11565344).
 - *2026.06*: &nbsp;Started as a **Research Assistant** at the Big Data Institute, [HKUST-GZ](https://www.hkust-gz.edu.cn/), advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/).
 - *2026.03*: &nbsp;Started as a **Visiting Internship Student** at [VisLab, HKUST](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
@@ -62,6 +63,7 @@ My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find 
 <span id="awards"></span>
 
 # 🎖 Honors and Awards
+- *2026* 2026年（第十二届）全国大学生统计建模大赛 - 国家三等奖
 - *2026* The 6th Meituan Business Analysis Elite Competition - Outstanding Works Award (Global Top 50-100)
 - *2025* The 16th National College Students' E-commerce Innovation, Creativity and Entrepreneurship Challenge Competition - First Prize
 - *2025* 2025 National College Students Mathematical Modeling Competition - Provincial Third Prize
