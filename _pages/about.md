@@ -63,7 +63,7 @@ My [CV](files/CV_Yongxin_GUAN.pdf) is available for download. You can also find 
 <span id="awards"></span>
 
 # 🎖 Honors and Awards
-- *2026* 2026年（第十二届）全国大学生统计建模大赛 - 国家三等奖
+- *2026* 12th National College Students Statistical Modeling Competition - National Third Prize
 - *2026* The 6th Meituan Business Analysis Elite Competition - Outstanding Works Award (Global Top 50-100)
 - *2025* The 16th National College Students' E-commerce Innovation, Creativity and Entrepreneurship Challenge Competition - First Prize
 - *2025* 2025 National College Students Mathematical Modeling Competition - Provincial Third Prize
